@@ -1,0 +1,11 @@
+The following papers were generated using an LLM, this message was not. 
+
+Paper prompt:
+"here are two ecs407 logic exams use these to create new exams of slightly higher difficulty assigning 14 qs to logig 2 to graphs and 4 to sets and relations
+
+try and put a slight bias towards q's that i get wrong. I'd like two test sets, multiple choice. with A being alghtly harder than the practices and B being slightly harder than A."
+
+Answer prompt:
+"create answer pdfs for these"
+
+on gpt6 sol, extnd reasoning.
